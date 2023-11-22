@@ -43,10 +43,17 @@ resources:
       clusters:
         - label: "default"
 <<<<<<< HEAD
+<<<<<<< HEAD
           aws_attributes: 
             instance_profile_arn: "arn:aws:iam::997819012307:instance-profile/one-env-databricks-access"
 =======
 <<<<<<< HEAD
+=======
+          aws_attributes: 
+            instance_profile_arn: "arn:aws:iam::997819012307:instance-profile/one-env-databricks-access"
+>>>>>>> 3e5b391 (multi snapshots processing added with DABs)
+>>>>>>> databricks-main
+=======
 =======
           aws_attributes: 
             instance_profile_arn: "arn:aws:iam::997819012307:instance-profile/one-env-databricks-access"
